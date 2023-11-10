@@ -1,0 +1,29 @@
+{
+  "name": "kevin-react-font",
+  "version": "1.0.0",
+  "description": "This package contains all types of font and styles, you have to just font style name",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishandetrojafont/-kevin-react-font.git"
+  },
+  "keywords": [
+    "react-font",
+    "font-style",
+    "stylish",
+    "font",
+    "fonts",
+    "react",
+    "font",
+    "package"
+  ],
+  "author": "Kishan Detroja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishandetrojafont/-kevin-react-font/issues"
+  },
+  "homepage": "https://github.com/kishandetrojafont/-kevin-react-font#readme"
+}
